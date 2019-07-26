@@ -1,0 +1,2 @@
+﻿NuGet - AutoMapper
+NuGet - Ninject

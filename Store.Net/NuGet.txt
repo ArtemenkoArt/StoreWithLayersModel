@@ -1,0 +1,3 @@
+﻿AutoMapper
+EntityFramework
+Ninject.MVC5

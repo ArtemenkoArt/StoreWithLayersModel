@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.Net", "Store.Net\Store.Net.csproj", "{57DFD8DB-06F4-4453-9AA4-24314D22A583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.Data", "Store.Data\Store.Data.csproj", "{676DCE24-1282-4AC2-A0BD-F7D10A7ACD0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.Logic", "Store.Logic\Store.Logic.csproj", "{EFB20FA6-8FA6-41DC-98D4-60D1C5C85168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57DFD8DB-06F4-4453-9AA4-24314D22A583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DFD8DB-06F4-4453-9AA4-24314D22A583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DFD8DB-06F4-4453-9AA4-24314D22A583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DFD8DB-06F4-4453-9AA4-24314D22A583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676DCE24-1282-4AC2-A0BD-F7D10A7ACD0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676DCE24-1282-4AC2-A0BD-F7D10A7ACD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676DCE24-1282-4AC2-A0BD-F7D10A7ACD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676DCE24-1282-4AC2-A0BD-F7D10A7ACD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB20FA6-8FA6-41DC-98D4-60D1C5C85168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB20FA6-8FA6-41DC-98D4-60D1C5C85168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB20FA6-8FA6-41DC-98D4-60D1C5C85168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB20FA6-8FA6-41DC-98D4-60D1C5C85168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72A1220B-BD11-4415-9ECC-A6B08AAF3D54}
+	EndGlobalSection
+EndGlobal
